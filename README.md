@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @myhish
-- 👀 I’m interested in ... Data Analytics.
+- 👀 I’m interested in ... Business Analytics.
 - 🌱 I’m currently learning ... MySQL.
-- 💞️ I’m looking to collaborate on ... Projects on Data Analysis
-- 📫 How to reach me ... myhish17 on Instagram
+- 💞️ I’m looking to collaborate on ... Projects on MySQL
+- 📫 How to reach me ... Mahish Ka Kanki on LinkedIn 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I will think about it later.
 
